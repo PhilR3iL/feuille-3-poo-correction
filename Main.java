@@ -1,9 +1,7 @@
-import exo11.PointA;
+import exo13.ThibaudPassionGaragiste;
 
 class Main {
   public static void main(String[] args) {
-    PointA simon = new PointA();
-    simon.initialise(16, 3);
-    simon.afficher();
+    ThibaudPassionGaragiste.main(args);
   }
 }
